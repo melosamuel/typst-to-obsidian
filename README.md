@@ -11,6 +11,7 @@ This is a command-line Typst to Obsididan converter with Typst's native Rust par
 
 <details>
 <summary>Text</summary>
+  
 - [x] Highlight
 - [x] Line Break
 - [x] Lorem
@@ -25,9 +26,13 @@ This is a command-line Typst to Obsididan converter with Typst's native Rust par
 - [x] Text
 - [x] Underline
 - [x] Uppercase
+- [ ] 
+
 </details>
 
 <details>
 <summary>Math</summary>
+
 - [ ] Item
+
 </details>
