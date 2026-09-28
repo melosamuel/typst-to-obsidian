@@ -26,7 +26,6 @@ This is a command-line Typst to Obsididan converter with Typst's native Rust par
 - [x] Text
 - [x] Underline
 - [x] Uppercase
-- [ ] 
 
 </details>
 
