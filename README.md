@@ -8,7 +8,9 @@ This is a command-line Typst to Obsididan converter with Typst's native Rust par
 1. `pip install -r render/requirements.txt`
 
 ## Currently Supported Conversions
-### Text
+
+<details>
+<summary>Text</summary>
 - [x] Highlight
 - [x] Line Break
 - [x] Lorem
@@ -23,3 +25,9 @@ This is a command-line Typst to Obsididan converter with Typst's native Rust par
 - [x] Text
 - [x] Underline
 - [x] Uppercase
+</details>
+
+<details>
+<summary>Math</summary>
+- [ ] Item
+</details>
