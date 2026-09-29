@@ -1,6 +1,8 @@
 from lorem_gen.generator import LoremGenerator
 
 from classes import JsonNode
+from render_math import render_math
+from render_math import render_math
 
 
 def render_heading(node: JsonNode) -> str:
@@ -73,6 +75,12 @@ def render_function(node: JsonNode) -> str:
 
 
 def render(node: JsonNode) -> str:
+  if node['kind'] == 'Equation':
+    return render_math(node)
+
+  if node['kind'] == 'Heading':
+    return render_math(node)
+
   if node['kind'] == 'Heading':
     return render_heading(node)
 
