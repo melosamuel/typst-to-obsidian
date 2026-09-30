@@ -8,7 +8,7 @@ This is ==highlighted== text
 This has a linebreak <br/>
 This is the next line
 
-Lorem et do aliqua tempor dolore sit sed labore magna ut dolor ut ut elit.
+Amet amet do aliqua dolor elit sit lorem incididunt ipsum adipiscing tempor et sed incididunt.
 
 make this lowercase
 $\overline{\text{overline this}}$
@@ -22,4 +22,4 @@ MAKE THIS UPPERCASE
 
 This is a sentence. This is another sentence.
 
-$\rho \grave{a} \grave{a}$
+$\mathbb{A} \grave{a} \grave{a}$

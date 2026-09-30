@@ -39,7 +39,7 @@ def render_math_call(node: JsonNode) -> str | None:
 def render_math_ident(node: JsonNode) -> str:
   name = node.get('text', '')
   options = {
-    'rho': '\\rho',
+    'AA': '\\mathbb{A}',
   }
 
   if name in options:
