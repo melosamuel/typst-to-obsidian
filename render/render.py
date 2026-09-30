@@ -2,7 +2,6 @@ from lorem_gen.generator import LoremGenerator
 
 from classes import JsonNode
 from render_math import render_math
-from render_math import render_math
 
 
 def render_heading(node: JsonNode) -> str:
