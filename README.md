@@ -36,6 +36,7 @@ This is a command-line Typst to Obsididan converter with Typst's native Rust par
 
 </details>
 
+<details>
 <summary>Symbols</summary>
 
 - [ ] General Symbols
