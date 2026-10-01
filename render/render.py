@@ -1,7 +1,4 @@
-from lorem_gen.generator import LoremGenerator
-
 from classes import JsonNode
-from render_math import render_math
 from render_math import render_math
 
 
@@ -63,9 +60,7 @@ def render_function(node: JsonNode) -> str:
     elif child['kind'] == 'Args':
       content = render(child)
   if fname == 'lorem':
-    length = int(content[1:-1])
-    generator = LoremGenerator(words=length)
-    return generator.generate()
+    return node.get('text', '')
   if fname == 'lower':
     content = content.lower()
   if fname == 'upper':

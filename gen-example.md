@@ -8,7 +8,7 @@ This is ==highlighted== text
 This has a linebreak <br/>
 This is the next line
 
-Lorem et do aliqua tempor dolore sit sed labore magna ut dolor ut ut elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.
 
 make this lowercase
 $\overline{\text{overline this}}$
