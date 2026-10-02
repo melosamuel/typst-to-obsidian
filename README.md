@@ -32,6 +32,13 @@ This is a command-line Typst to Obsididan converter with Typst's native Rust par
 <details>
 <summary>Math</summary>
 
-- [ ] Item
+- [ ] Accent
+
+</details>
+
+<details>
+<summary>Symbols</summary>
+
+- [ ] General Symbols
 
 </details>
