@@ -7,6 +7,15 @@ This is a command-line Typst to Obsididan converter with Typst's native Rust par
 ## Setup
 1. `pip install -r render/requirements.txt`
 
+## Testing
+
+Run the Rust parser tests:
+
+```sh
+cd parser
+cargo test
+```
+
 ## Currently Supported Conversions
 
 <details>
